@@ -11,7 +11,7 @@ Since 2021 I've been living and breathing programming. I've had the chance to im
    * 💬 Ask me about ReactJS and NodeJS  
    * 📬 How to reach me: tony_cook@outlook.com  
    * 😊 Pronouns: he/his  
-   * 🍽️ Fun fact: I enjoy cooking for others and want to be an expert in kiwi cooking one day.  
+   * 🍽️ Fun fact: I enjoy cooking for others and want to become an expert in kiwi cooking one day.  
  <br/>
  <br/> 
  <br/>
