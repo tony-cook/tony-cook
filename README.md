@@ -6,7 +6,7 @@ Since 2021 I've been living and breathing programming. I've had the chance to im
   
     
   
-   * 📱  I'm currently working on a motor vehicle insurance application and individual portfolio website.
+   * 📱  I'm currently working on a rental property management application and individual portfolio website.
    * 🤓 I'm currently learning ReactJS.  
    * 💬 Ask me about ReactJS and NodeJS  
    * 📬 How to reach me: tony_cook@outlook.com  
