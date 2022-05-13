@@ -7,7 +7,7 @@ Since 2021 I've been living and breathing programming. I've had the chance to im
     
   
    * 📱  I'm currently working on 3D modelling and individual portfolio website.
-   * 🤓 I'm currently learning ReactJS.  
+   * 🤓 I'm currently learning Amazon Cloud Services.  
    * 💬 Ask me about ReactJS and NodeJS  
    * 📬 How to reach me: tony_cook@outlook.com  
    * 😊 Pronouns: he/his  
