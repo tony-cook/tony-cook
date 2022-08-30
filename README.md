@@ -6,8 +6,8 @@ Since 2021 I've been living and breathing programming. I've had the chance to im
   
     
   
-   * 📱  I'm currently working on Data Analytics certification.
-   * 🤓 I'm currently learning Microsoft Cloud.  
+   * 📱  I'm currently working on data analytics certification.
+   * 🤓 I'm currently learning Microsoft cloud.  
    * 💬 Ask me about ReactJS and NodeJS  
    * 📬 How to reach me: tony_cook@outlook.com  
    * 😊 Pronouns: he/his  
