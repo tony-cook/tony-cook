@@ -1,13 +1,13 @@
 ### Hi there 👋 - 👨‍💻
 
-I'm Tony, currently a student at Mission Ready HQ and an aspiring software developer. My interests are in AI, human-machine interaction, machine learning and the beyond.  
+I'm Tony, a recent graduate from Mission Ready HQ and an aspiring software developer. I'm interested in learning more about AI, machine learning, data engineering and the beyond.  
   
-Since 2021 I've been living and breathing programming. I've had the chance to immerse myself in many different works and projects, helping to make this world a better place through design & code 🌟 💖  
+Since only 2021 I've been living and breathing programming. I've had the chance to immerse myself in many different works and projects, helping to make this world a better place through design & code 🌟 💖  
   
     
   
-   * 📱  I'm currently working on 3D modelling and using Blender.
-   * 🤓 I'm currently learning Amazon Cloud Services.  
+   * 📱  I'm currently working on Google Analytics Certification.
+   * 🤓 I'm currently learning Microsoft Azure.  
    * 💬 Ask me about ReactJS and NodeJS  
    * 📬 How to reach me: tony_cook@outlook.com  
    * 😊 Pronouns: he/his  
