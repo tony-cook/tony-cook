@@ -2,7 +2,7 @@
 
 I'm Tony, a recent graduate from Mission Ready HQ and an aspiring software developer. I'm interested in learning more about AI, machine learning, data analytics and the beyond.  
   
-Since only 2021 I've been living and breathing programming. I've had the chance to immerse myself in many different works and projects, helping to make this world a better place through design & code 🌟 💖  
+Since 2021 I've been living and breathing programming. I've had the chance to immerse myself in many different works and projects, helping to make this world a better place through design & code 🌟 💖  
   
     
   
