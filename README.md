@@ -13,11 +13,11 @@
 
 I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious and learning more about AI, machine learning, data analytics and whats beyond. I've been living and breathing programming since 2021. I've had the chance to immerse myself in many different works and projects, projects being built from the ground up, from planning and designing all the way to solving real-life problems with design and code 🌟 💖
 
-<!-- LANGUAGES AND TOOLS SECTION -->
-
 ---
 
-🧰 Languages and Tools
+<!-- LANGUAGES AND TOOLS SECTION -->
+
+## 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -36,6 +36,8 @@ I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious a
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br />
+
+#
 
 ## 📊 Github stats
 
