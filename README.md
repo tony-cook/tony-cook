@@ -11,20 +11,13 @@
 
 <!-- ABOUT SECTION -->
 
-I'm Tony ,an aspiring software developer 👨‍💻. I'm passionately curious and learning more about AI, machine learning, data analytics and whats beyond. I've been living and breathing programming since 2021. I've had the chance to immerse myself in many different works and projects, projects being built from the ground up, from planning and designing all the way to solving real-life problems with design and code 🌟 💖
-
-<!-- - 📱 I'm currently working on Microsoft Azure certification.
-- 🤓 I'm currently learning Power BI Platform.
-- 💬 Ask me about ReactJS and NodeJS
-- 📬 How to reach me: connect with me on <a href="https://www.linkedin.com/in/tony-cook-developer/"> LinkedIn </a>
-- 😊 Pronouns: he/his
-- 🍽️ Fun fact: I enjoy cooking for others and want to become a master of classic kiwi cooking. -->
+I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious and learning more about AI, machine learning, data analytics and whats beyond. I've been living and breathing programming since 2021. I've had the chance to immerse myself in many different works and projects, projects being built from the ground up, from planning and designing all the way to solving real-life problems with design and code 🌟 💖
 
 <!-- LANGUAGES AND TOOLS SECTION -->
 
 ---
 
-###🧰 Languages and Tools
+🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -43,3 +36,25 @@ I'm Tony ,an aspiring software developer 👨‍💻. I'm passionately curious a
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br />
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tony Cook's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=tony-cook&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Tony Cook's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-cook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!-- <details>
+ <summary><h3>👨‍💻 Tony's Journey</h3></summary>
+
+- 📱 I'm currently working on Microsoft Azure certification.
+- 🤓 I'm currently learning Power BI Platform.
+- 💬 Ask me about ReactJS and NodeJS
+- 📬 How to reach me: connect with me on <a href="https://www.linkedin.com/in/tony-cook-developer/"> LinkedIn </a>
+- 😊 Pronouns: he/his
+- 🍽️ Fun fact: I enjoy cooking for others and want to become a master of classic kiwi cooking. -->
