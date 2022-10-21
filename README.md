@@ -11,15 +11,19 @@
 
 <!-- ABOUT SECTION -->
 
-I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious and learning more about AI, machine learning, data analytics and whats beyond. I've been living and breathing programming since 2021. During this time I've had the chance to immerse myself in several unique projects, projects being built from the ground up, from planning and designing all the way to solving real life problems with design and code 🌟 💖
+I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious and learning more about AI, machine learning, data analytics and whats beyond. I've been living and breathing programming since 2021. During this time I've had the chance to immerse myself in several unique projects, projects being built from the ground up, from planning and designing all the way to solving real life problems with design and code 🌟 💖.
 
 <br/>
 
+<p align="left">
+  <a href="https://github.com/tony-cook?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+<br/>
 <!-- LANGUAGES AND TOOLS SECTION -->
 
 ## 🧰 My Favourite Tools and Languages
 
-<br/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -37,14 +41,14 @@ I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious a
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <br />
-<br/>
+<br />
 
 #
 
-<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -53,6 +57,7 @@ I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious a
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
+<br/>
 
 <!-- <details>
  <summary><h3>👨‍💻 Tony's Journey</h3></summary>
