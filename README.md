@@ -11,13 +11,13 @@
 
 <!-- ABOUT SECTION -->
 
-I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious and learning more about AI, machine learning, data analytics and whats beyond. I've been living and breathing programming since 2021. I've had the chance to immerse myself in many different works and projects, projects being built from the ground up, from planning and designing all the way to solving real-life problems with design and code 🌟 💖
+I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious and learning more about AI, machine learning, data analytics and whats beyond. I've been living and breathing programming since 2021. During this time I've had the chance to immerse myself in several unique projects, projects being built from the ground up, from planning and designing all the way to solving real life problems with design and code 🌟 💖
 
----
+<br/>
 
 <!-- LANGUAGES AND TOOLS SECTION -->
 
-## 🧰 Languages and Tools
+## 🧰 My Favourite Tools and Languages
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -25,7 +25,7 @@ I'm Tony 👨‍💻, an aspiring software developer. I'm passionately curious a
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
